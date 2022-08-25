@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#imagemFundo{
+    background-size: cover;
+    background-image: url('../assets/bg.jpg');
+    height: 540px;
+}
+
+#servicoH2{
+    margin: 2% 0;
+}
+
+.tituloServico{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.descricaoServico{
+    padding: 0 11%;
+    text-align: justify;
+}
